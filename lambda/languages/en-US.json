@@ -1,0 +1,41 @@
+{
+    "SKILL_NAME": "the Dabble Lab session attributes template",
+    "WELCOME": [
+      "Welcome to {}. What's your name?"
+    ],
+    "WELCOME_REPROMPT": [
+      "Can you tell me your name?."
+    ],
+    "NAME_RESPONSE": [
+       "Hello {}. I saved your name as a session attribute. Ask me your name to make sure I have it." 
+    ],
+    "NAME_RESPONSE_REPROMPT": [
+       "Ask me your name." 
+    ],
+    "SAY_NAME_RESPONSE": [
+        "Your name is {}"
+    ],
+    "NO_NAME_RESPONSE": [
+        "Sorry, I don't know your name yet. Please tell me your name to continue."
+    ],
+    "NO_NAME_REPROMPT": [
+        "What is your name?"
+    ],
+    "HELP": [
+      "You can tell me your name and I will save it as a session attribute. To try it, just say: My name is, followed by your name."
+    ],
+    "HELP_REPROMPT": [
+      "What is your name?"
+    ],
+    "FALLBACK": [
+      "Sorry, I didn't understand that. What is your name?"
+    ],
+    "FALLBACK_REPROMPT": [
+      "What is your name?"
+    ],
+    "CANCEL_STOP_RESPONSE": [
+      "Good bye."
+    ],
+    "ERROR": "Sorry, I wasn't able to handle your last request. Could you say that again?",
+    "ERROR_REPROMPT": "Could you say that again?"
+}
